@@ -1,0 +1,15 @@
+body{
+    background: rgb(245, 151, 182);
+}
+
+#image{
+    text-align: center;
+}
+
+#text{
+    text-align: center;
+}
+
+.ii:hover{
+    transition: ease-in-out 1s;
+}
